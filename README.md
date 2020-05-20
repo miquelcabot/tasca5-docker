@@ -14,6 +14,6 @@ Has de lliurar a [Google Classroom](https://classroom.google.com) un enllaç a u
 
 ## Referències
 
-* [Exploring Docker 1, Vídeo Youtube de Traversy Media](https://youtu.be/Kyx2PsuwomE)
-* [Exploring Docker 2, Vídeo Youtube de Traversy Media](https://youtu.be/hP77Rua1E0c)
+* [Exploring Docker 1 - Getting Started, Vídeo Youtube de Traversy Media](https://youtu.be/Kyx2PsuwomE)
+* [Exploring Docker 2 - Docker Compose With Node & MongoDB, Vídeo Youtube de Traversy Media](https://youtu.be/hP77Rua1E0c)
 * [Quick Wordpress Setup With Docker, Vídeo Youtube de Traversy Media](https://youtu.be/pYhLEV-sRpY)
