@@ -1,4 +1,4 @@
-# Tasca 5 - Desplegar una aplicació Node JS amb Docker
+# Tasca 5 - Desplegar una aplicació LAMP amb Docker
 
 Nom de l'alumne = ________
 
