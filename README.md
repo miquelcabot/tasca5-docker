@@ -1,4 +1,4 @@
-# Tasca 5 - Desplegar Wordpress amb Docker
+# Tasca 5 - Desplegar una aplicació Node JS amb Docker
 
 Nom de l'alumne = ________
 
@@ -16,4 +16,3 @@ Has de lliurar a [Google Classroom](https://classroom.google.com) un enllaç a u
 
 * [Exploring Docker 1 - Getting Started, Vídeo Youtube de Traversy Media](https://youtu.be/Kyx2PsuwomE)
 * [Exploring Docker 2 - Docker Compose With Node & MongoDB, Vídeo Youtube de Traversy Media](https://youtu.be/hP77Rua1E0c)
-* [Quick Wordpress Setup With Docker, Vídeo Youtube de Traversy Media](https://youtu.be/pYhLEV-sRpY)
