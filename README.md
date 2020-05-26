@@ -27,11 +27,11 @@ Els punts que heu de lliurar per aquesta pràctica són:
 5. Instruccions per accedir mitjançant terminal de comandes (bash shell) a cada un dels contenidors.
 6. Instruccions per accedir al client MySQL del contenidor que té la base de dades mitjançant terminal de comandes.
 7. Crear un `Project` per fer el seguiment de l'*Sprint* actual amb un diagrama [Kanban](https://es.wikipedia.org/wiki/Kanban) de tipus *Basic kanban*. Aquest *Sprint* ha de tenir almenys les següents *user stories* del *product backlog*, en forma de `Issues`, que tendran assignades a algún desenvolunpador del teu projecte:
-   * Ordered sub-list
-   * Ordered sub-list
-   * Ordered sub-list
-   * Ordered sub-list
-   * Ordered sub-list
+   * L'aplicació web s'ha de desplegar a un contenidor de Docker
+   * La base de dades s'ha de desplegar a un contenidor de Docker
+   * Hi haurà un contenidor de Docker amb el programa phpMyAdmin per administrar la base de dades
+   * L'administrador del sistema ha de poder entrar mitjançant terminal de comandes als contenidors
+   * L'administrador del sistema ha de poder entrar mitjançant terminal de comandes al client MySQL
 
 ## 1. Fitxer necessaris per configurar els contenidors Docker
 Mirar els fitxers `Dockerfile` i `docker-compose.yml` d'aquest repositori.
