@@ -20,13 +20,13 @@ A la següent captura de pantalla es pot veure el resultat d’accedir a l’apl
 ![alt text](https://github.com/miquelcabot/tasca5-docker/blob/master/demo.png?raw=true "Demostració de l'aplicació")
 
 Els punts que heu de lliurar per aquesta pràctica són:
-1. Fitxer necessaris per configurar els contenidors Docker. Al mateix repositori hi heu d'afegir els fitxers `Dockerfile` i `docker-compose.yml` per tal de configurar els contenidors sol·licitats a l'enunciat.
-2. Prerequisits de software per poder executar aquest projecte.
-3. Instruccions per executar i aturar els contenidors.
-4. Instruccions per accedir a la web del projecte i a phpMyAdmin. En principi, basta amb indicar les seves URLs.
-5. Instruccions per accedir mitjançant terminal de comandes (bash shell) a cada un dels contenidors.
-6. Instruccions per accedir al client MySQL del contenidor que té la base de dades mitjançant terminal de comandes.
-7. Crear un `Project` per fer el seguiment de l'*Sprint* actual amb un diagrama [Kanban](https://es.wikipedia.org/wiki/Kanban) de tipus *Basic kanban*. Aquest *Sprint* ha de tenir almenys les següents *user stories* del *product backlog*, en forma de `Issues`, que tendran assignades a algún desenvolunpador del teu projecte i estaran repartides en diferents estats (*To do*, *In progress*, *Done*):
+1. Fitxers necessaris per configurar els contenidors Docker. Al mateix repositori hi heu d'afegir els fitxers `Dockerfile` i `docker-compose.yml` per tal de configurar els contenidors sol·licitats a l'enunciat.
+2. Descriure al fitxer `README.md` els prerequisits de software per poder executar aquest projecte.
+3. Descriure al fitxer `README.md` les instruccions per executar i aturar els contenidors.
+4. Descriure al fitxer `README.md` les instruccions per accedir a la web del projecte i a phpMyAdmin. En principi, basta amb indicar les seves URLs.
+5. Descriure al fitxer `README.md` les instruccions per accedir mitjançant terminal de comandes (bash shell) a cada un dels contenidors.
+6. Descriure al fitxer `README.md` les instruccions per accedir al client MySQL del contenidor que té la base de dades mitjançant terminal de comandes.
+7. Al repositori, crear un `Project` per fer el seguiment de l'*Sprint* actual amb un diagrama [Kanban](https://es.wikipedia.org/wiki/Kanban) de tipus *Basic kanban*. Aquest *Sprint* ha de tenir almenys les següents *user stories* del *product backlog*, en forma de `Issues`, que tendran assignades a algún desenvolunpador del teu projecte i estaran repartides en diferents estats (*To do*, *In progress*, *Done*):
    * L'aplicació web s'ha de desplegar a un contenidor de Docker
    * La base de dades s'ha de desplegar a un contenidor de Docker
    * Hi haurà un contenidor de Docker amb el programa phpMyAdmin per administrar la base de dades
