@@ -20,7 +20,7 @@ A la següent captura de pantalla es pot veure el resultat d’accedir a l’apl
 ![alt text](https://github.com/miquelcabot/tasca5-docker/blob/master/demo.png?raw=true "Demostració de l'aplicació")
 
 ## 1. Fitxer necessaris per configurar els contenidors Docker
-Mirar els fitxers `Dockerfile` i `docker-compose.yml`
+Mirar els fitxers `Dockerfile` i `docker-compose.yml` d'aquest repositori.
 
 ## 2. Prerequisits
 (Completar)
