@@ -15,7 +15,7 @@ Per tal de poder posar en marxa els tres contenidors de forma coordinada es reco
 Una vegada desplegats, el servidor web Apache es podrà accedir mitjançant el port 8080 de la màquina hoste, el servidor de base de dades MySQL es podrà accedir mitjançant el port 3306, i PhpMyAdmin mitjançant el port 8081.
 
 A la següent captura de pantalla es pot veure el resultat d’accedir a l’aplicació web, una vegada desplegada i posada en funcionament:
-![alt text](https://github.com/miquelcabot/tasca5-docker/demo.png?raw=true "Demostració de l'aplicació")
+![alt text](https://github.com/miquelcabot/tasca5-docker/blob/master/demo.png?raw=true "Demostració de l'aplicació")
 
 ## Format de lliurament
 
