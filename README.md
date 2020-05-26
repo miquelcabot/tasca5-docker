@@ -19,23 +19,26 @@ A la següent captura de pantalla es pot veure el resultat d’accedir a l’apl
 
 ![alt text](https://github.com/miquelcabot/tasca5-docker/blob/master/demo.png?raw=true "Demostració de l'aplicació")
 
-## 1. Prerequisits
+## 1. Fitxer necessaris per configurar els contenidors Docker
+Mirar els fitxers `Dockerfile` i `docker-compose.yml`
+
+## 2. Prerequisits
 (Completar)
 
-## 2. Executar i aturar els contenidors
+## 3. Executar i aturar els contenidors
 (Completar)
 
-## 3. Accedir a la web i a phpMyAdmin
+## 4. Accedir a la web i a phpMyAdmin
 (Completar)
 
-## 4. Entrar per terminal (bash shell) als contenidors 
+## 5. Entrar per terminal (bash shell) als contenidors 
 (Completar)
 
-## 5. Entrar al client MySQL per terminal
+## 6. Entrar al client MySQL per terminal
 (Completar)
 
-## 6. Seguiment del desenvolupament d'aquest Sprint
-Mirar `Issues` i `Projects` d'aquest repositori
+## 7. Seguiment del desenvolupament d'aquest Sprint
+Mirar els menús `Issues` i `Projects` d'aquest repositori
 
 ## Format de lliurament
 
