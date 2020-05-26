@@ -19,6 +19,20 @@ A la següent captura de pantalla es pot veure el resultat d’accedir a l’apl
 
 ![alt text](https://github.com/miquelcabot/tasca5-docker/blob/master/demo.png?raw=true "Demostració de l'aplicació")
 
+Els punts que heu de lliurar per aquesta pràctica són:
+1. Fitxer necessaris per configurar els contenidors Docker. Al mateix repositori hi heu d'afegir els fitxers `Dockerfile` i `docker-compose.yml` per tal de configurar els contenidors sol·licitats a l'enunciat.
+2. Prerequisits de software per poder executar aquest projecte.
+3. Instruccions per executar i aturar els contenidors.
+4. Instruccions per accedir a la web del projecte i a phpMyAdmin. En principi, basta amb indicar les seves URLs.
+5. Instruccions per accedir mitjançant terminal de comandes (bash shell) a cada un dels contenidors.
+6. Instruccions per accedir al client MySQL del contenidor que té la base de dades mitjançant terminal de comandes.
+7. Crear un `Project` per fer el seguiment de l'*Sprint* actual amb un diagrama [Kanban](https://es.wikipedia.org/wiki/Kanban) de tipus *Basic kanban*. Aquest *Sprint* ha de tenir almenys les següents *user stories* del *product backlog*, en forma de `Issues`, que tendran assignades a algún desenvolunpador del teu projecte:
+⋅⋅1. Ordered sub-list
+⋅⋅2. Ordered sub-list
+⋅⋅3. Ordered sub-list
+⋅⋅4. Ordered sub-list
+⋅⋅5. Ordered sub-list
+
 ## 1. Fitxer necessaris per configurar els contenidors Docker
 Mirar els fitxers `Dockerfile` i `docker-compose.yml` d'aquest repositori.
 
@@ -52,3 +66,4 @@ Has de lliurar a [Google Classroom](https://classroom.google.com) un enllaç a u
 * [Exploring Docker 2 - Docker Compose With Node & MongoDB, Vídeo Youtube de Traversy Media](https://youtu.be/hP77Rua1E0c)
 * [LAMP con Docker](https://magmax.org/blog/lamp-con-docker/)
 * [LAMP CON DOCKER, Vídeo Youtube](https://www.youtube.com/watch?v=lrhwWX49Uss)
+* [Project management in GitHub](https://github.com/features/project-management/)
