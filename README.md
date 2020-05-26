@@ -16,3 +16,5 @@ Has de lliurar a [Google Classroom](https://classroom.google.com) un enllaç a u
 
 * [Exploring Docker 1 - Getting Started, Vídeo Youtube de Traversy Media](https://youtu.be/Kyx2PsuwomE)
 * [Exploring Docker 2 - Docker Compose With Node & MongoDB, Vídeo Youtube de Traversy Media](https://youtu.be/hP77Rua1E0c)
+* [LAMP con Docker](https://magmax.org/blog/lamp-con-docker/)
+* [LAMP CON DOCKER, Vídeo Youtube](https://www.youtube.com/watch?v=lrhwWX49Uss)
