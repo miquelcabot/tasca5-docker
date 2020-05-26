@@ -26,7 +26,7 @@ Els punts que heu de lliurar per aquesta pràctica són:
 4. Instruccions per accedir a la web del projecte i a phpMyAdmin. En principi, basta amb indicar les seves URLs.
 5. Instruccions per accedir mitjançant terminal de comandes (bash shell) a cada un dels contenidors.
 6. Instruccions per accedir al client MySQL del contenidor que té la base de dades mitjançant terminal de comandes.
-7. Crear un `Project` per fer el seguiment de l'*Sprint* actual amb un diagrama [Kanban](https://es.wikipedia.org/wiki/Kanban) de tipus *Basic kanban*. Aquest *Sprint* ha de tenir almenys les següents *user stories* del *product backlog*, en forma de `Issues`, que tendran assignades a algún desenvolunpador del teu projecte:
+7. Crear un `Project` per fer el seguiment de l'*Sprint* actual amb un diagrama [Kanban](https://es.wikipedia.org/wiki/Kanban) de tipus *Basic kanban*. Aquest *Sprint* ha de tenir almenys les següents *user stories* del *product backlog*, en forma de `Issues`, que tendran assignades a algún desenvolunpador del teu projecte i estaran repartides en diferents estats (*To do*, *In progress*, *Done*):
    * L'aplicació web s'ha de desplegar a un contenidor de Docker
    * La base de dades s'ha de desplegar a un contenidor de Docker
    * Hi haurà un contenidor de Docker amb el programa phpMyAdmin per administrar la base de dades
