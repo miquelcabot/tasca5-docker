@@ -12,9 +12,11 @@ Per desplegar aquesta aplicació serà necessari crear 3 contenidors:
 * Un amb l’aplicació PhpMyAdmin per poder administrar la base de dades MySQL mitjançant una interfície web. Es basarà en la imatge “phpmyadmin/phpmyadmin”.
 
 Per tal de poder posar en marxa els tres contenidors de forma coordinada es recomana utilitzar l’eina Docker Compose (https://docs.docker.com/compose/).
+
 Una vegada desplegats, el servidor web Apache es podrà accedir mitjançant el port 8080 de la màquina hoste, el servidor de base de dades MySQL es podrà accedir mitjançant el port 3306, i PhpMyAdmin mitjançant el port 8081.
 
 A la següent captura de pantalla es pot veure el resultat d’accedir a l’aplicació web, una vegada desplegada i posada en funcionament:
+
 ![alt text](https://github.com/miquelcabot/tasca5-docker/blob/master/demo.png?raw=true "Demostració de l'aplicació")
 
 ## Format de lliurament
